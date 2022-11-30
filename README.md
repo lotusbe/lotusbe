@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lotusbe
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python and HTML
