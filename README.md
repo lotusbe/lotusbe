@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @lotusbe
+- 👋 Hi, I’m Lotus
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and HTML
+- 🌱 I’m currently learning javascript
